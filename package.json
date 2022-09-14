@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "homepage": "",
+  "name": "react-tenzies",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "nanoid": "^4.0.0",
+    "react-confetti": "^6.1.0"
   }
 }
