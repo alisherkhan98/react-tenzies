@@ -1,6 +1,6 @@
 {
-  "homepage": "http://alisherkhan98.github.io/",
-  "name": "my-app",
+  "homepage": "http://alisherkhan98.github.io/react-tenzies",
+  "name": "react-tenzies",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
